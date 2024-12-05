@@ -2,15 +2,15 @@
 
 Hello! 👋
 
-I’m [Mehdi Garouaz], and this is my new GitHub account. I previously had an account under the username [old_username](https://github.com/MehdiGR), but it is currently temporarily locked.
+I’m [Mehdi Garouaz], and this is my new GitHub account. I previously had an account under the username [MehdiGR](https://github.com/MehdiGR), but it is currently temporarily locked.
 
 ## About Me
 
-I am a passionate JavaScript developer and full-stack developer. I enjoy working on projects that involve modern web technologies, including [mention any specific frameworks or libraries you like, e.g., React, Node.js, Express, etc.].
+I am a passionate JavaScript developer and full-stack developer. I enjoy working on projects that involve modern web technologies, including [Next ,React, Node.js, Express,Svelte Kit].
 
 ## Previous Account
 
-My old account, [old_username](https://github.com/MehdiGR), is temporarily locked. Unfortunately, I cannot access it at this time.
+My old account, [MehdiGR](https://github.com/MehdiGR), is temporarily locked. Unfortunately, I cannot access it at this time.
 
 ## Get in Touch
 
